@@ -42,11 +42,11 @@ I'm Ashish Kushwaha, a Computer Science student passionate about building websit
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishbtech&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishbtech&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishbtech&layout=compact&theme=tokyonight&cache_seconds=1800" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishbtech&layout=compact&theme=tokyonight" />
 </p>
 
 ---
