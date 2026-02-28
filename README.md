@@ -5,6 +5,8 @@
 Hi there! 👋  
 I'm Ashish Kushwaha, a Computer Science student passionate about building websites and learning how software works behind the scenes.
 
+**🏷️ Profile Tags:** `C Programming` • `JavaScript` • `Web Development` • `Frontend` • `Problem Solving` • `Cinephile`
+
 ---
 
 ## 🌐 Socials
