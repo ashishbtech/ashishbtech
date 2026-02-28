@@ -65,6 +65,9 @@ I'm Ashish Kushwaha, a Computer Science student passionate about building websit
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishbtech&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishbtech&theme=tokyonight&hide_progress=false&custom_title=Language%20Percentages" />
+</p>
 
 ---
 
