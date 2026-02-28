@@ -56,15 +56,15 @@ I'm Ashish Kushwaha, a Computer Science student passionate about building websit
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishbtech&theme=tokyonight" alt="Ashish's Activity Graph" />
+  <img width="495" src="https://streak-stats.demolab.com/?user=ashishbtech&background=0D1117&ring=F97316&fire=F97316&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F97316&sideLabels=F97316&dates=A3A3A3&hide_border=true&v=1" alt="Ashish's Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashishbtech&theme=tokyonight" />
+  <img width="495" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashishbtech&bg_color=0D1117&title_color=F97316&text_color=FFFFFF&hide_border=true&custom_title=My%20Programming%20Languages&card_width=495&v=1" alt="Ashish's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashishbtech&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="495" src="https://github-readme-activity-graph.vercel.app/graph?username=ashishbtech&bg_color=0D1117&color=F97316&line=F97316&point=FFFFFF&hide_border=true&v=1" alt="Ashish's Contribution Graph" />
 </p>
 
 ---
