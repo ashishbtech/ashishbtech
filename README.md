@@ -56,7 +56,7 @@ I'm Ashish Kushwaha, a Computer Science student passionate about building websit
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashishbtech&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishbtech&theme=tokyonight" alt="Ashish's Activity Graph" />
 </p>
 
 <p align="center">
