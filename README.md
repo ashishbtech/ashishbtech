@@ -1,59 +1,49 @@
-# 💫 Ashish Kushwaha
-
+<div align="center">
+  
+# Hi, I'm Ashish Kushwaha! 👋
 ### 🚀 Computer Science Student | Web Developer | C Programmer
 
-Hi there! 👋  
-I'm Ashish Kushwaha, a Computer Science student passionate about building websites and learning how software works behind the scenes.
+<br>
 
-**🏷️ Profile Tags:** `C Programming` • `JavaScript` • `Web Development` • `Frontend` • `Problem Solving` • `Cinephile`
+<img src="https://capsule-render.vercel.app/api?type=slice&color=000000,F97316&height=200&section=header&text=Believe%20It!%20Let's%20Code!&fontSize=50&fontAlignY=35&desc=Building%20My%20Ninja%20Way%20in%20Tech&descAlignY=55&descAlign=50" alt="Naruto-Themed Banner" width="100%" />
 
----
+<br><br>
 
-## 🌐 Socials
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashisha15/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/ashish_a15"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.instagram.com/ashish_a15/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://letterboxd.com/ashish_a15/"><img src="https://img.shields.io/badge/Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd"/></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashisha15/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/ashish_a15/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white)](https://x.com/ashish_a15)
-[![Letterboxd](https://img.shields.io/badge/Letterboxd-202830?logo=letterboxd&logoColor=white)](https://letterboxd.com/ashish_a15/)
+</div>
 
----
+<br>
 
-## 🎓 Education
+* 🏫 **Education:** B.Tech in Computer Science & Engineering at Bundelkhand University, Jhansi.
+* 🎯 **Current Focus:** Mastering JavaScript, building responsive web projects, and exploring UI/UX design.
+* 💻 **Coding Philosophy:** *"Consistency is more important than perfection."*
+* 🍿 **Fun Fact:** I'm a massive cinephile (check out my Letterboxd!) and I love weaving pop culture into my coding projects.
 
-🎓 B.Tech in Computer Science & Engineering  
-🏫 Institute of Engineering and Technology  
-📍 Bundelkhand University, Jhansi  
+<br><br>
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+</p>
 
-## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DevTools" />
+</p>
 
-### 💻 Languages
+<br>
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### 🧰 Tools
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-
----
-
-## 📌 Current Goals
-
-- 🔥 Master JavaScript
-- ⚡ Build responsive web projects
-- 🧠 Strengthen problem-solving skills in C
-- 🌍 Deploy my portfolio website
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img width="495" src="https://streak-stats.demolab.com/?user=ashishbtech&background=0D1117&ring=F97316&fire=F97316&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F97316&sideLabels=F97316&dates=A3A3A3&hide_border=true&v=1" alt="Ashish's Streak" />
@@ -67,22 +57,6 @@ I'm Ashish Kushwaha, a Computer Science student passionate about building websit
   <img width="495" src="https://github-readme-activity-graph.vercel.app/graph?username=ashishbtech&bg_color=0D1117&color=F97316&line=F97316&point=FFFFFF&hide_border=true&v=1" alt="Ashish's Contribution Graph" />
 </p>
 
----
+<br><br>
 
-## 🏆 Tech Badges
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## 🌐 Contact
-
-📧 Email: ashishbtech.cs@gmail.com  
-🌍 Portfolio: Coming Soon  
-
----
-
-⭐ *“Consistency is more important than perfection.”*
+**You can reach me at:** ashishbtech.cs@gmail.com
