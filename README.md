@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=000000,F97316&height=200&section=header&text=Believe%20It!%20Let's%20Code!&fontSize=50&fontAlignY=35&desc=Building%20My%20Ninja%20Way%20in%20Tech&descAlignY=55&descAlign=50" alt="Naruto-Themed Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f05321&secondaryColor=fcba21&height=200&section=header&text=Believe%20It!%20Let's%20Code!&fontSize=50&fontAlignY=35&desc=Building%20My%20Ninja%20Way%20in%20Tech&descAlignY=55&descAlign=50&fontColor=ffffff&descColor=024da1" alt="Naruto Orange and Yellow Banner" width="100%" />
 
 <br><br>
 
