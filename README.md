@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img width="495" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashishbtech&bg_color=0D1117&title_color=F97316&text_color=FFFFFF&hide_border=true&custom_title=My%20Programming%20Languages&card_width=495&v=1" alt="Ashish's Top Languages" />
+  <img width="495" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashishbtech&bg_color=0D1117&title_color=F97316&text_color=FFFFFF&hide_border=true&custom_title=My%20Programming%20Languages&card_width=495&hide=jupyter%20notebook&v=1" alt="Ashish's Top Languages" />
 </p>
 
 <p align="center">
