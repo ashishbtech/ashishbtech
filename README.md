@@ -1,8 +1,7 @@
 <div align="center">
-  
-# Hi, I'm Ashish Kushwaha! 👋
-### 🚀 Computer Science Student | Web Developer | C Programmer
 
+  <h1 align="center">Ashish Kushwaha</h1>
+<h3 align="center">Computer Science Student | Web Developer | Problem Solver (C & DSA)</h3>
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f05321&secondaryColor=fcba21&height=200&section=header&text=Believe%20It!%20Let's%20Code!&fontSize=50&fontAlignY=35&desc=Building%20My%20Ninja%20Way%20in%20Tech&descAlignY=55&descAlign=50&fontColor=ffffff&descColor=024da1" alt="Naruto Orange and Yellow Banner" width="100%" />
@@ -46,6 +45,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Framer_Motion-F97316?style=for-the-badge&logo=framer&logoColor=0D1117" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
   <img src="https://img.shields.io/badge/Locomotive_Scroll-252525?style=for-the-badge&logo=javascript&logoColor=white" alt="Locomotive" />
   <img src="https://img.shields.io/badge/Shery.js-FF5733?style=for-the-badge&logo=javascript&logoColor=white" alt="SheryJS" />
@@ -65,6 +65,30 @@
 
 <br>
 
+## Featured Projects
+
+<p align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishbtech&repo=prabhas-darling-tribute&bg_color=0D1117&title_color=F97316&text_color=FFFFFF&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishbtech&repo=cyberfiction-clone&bg_color=0D1117&title_color=F97316&text_color=FFFFFF&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishbtech&repo=miranda-ui-clone&bg_color=0D1117&title_color=F97316&text_color=FFFFFF&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishbtech&repo=shinobi-legends-ui&bg_color=0D1117&title_color=F97316&text_color=FFFFFF&hide_border=true" />
+    </td>
+  </tr>
+</table>
+</p>
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -72,7 +96,7 @@
 </p>
 
 <p align="center">
-  <img width="495" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashishbtech&bg_color=0D1117&title_color=F97316&text_color=FFFFFF&hide_border=true&custom_title=My%20Programming%20Languages&card_width=495&hide=jupyter%20notebook&v=1" alt="Ashish's Top Languages" />
+  <img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishbtech&layout=compact&bg_color=0D1117&title_color=F97316&text_color=FFFFFF&hide_border=true" />
 </p>
 
 <p align="center">
